@@ -1,0 +1,26 @@
+{
+  "name": "ec2-wakeup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chimame/ec2-wakeup.git"
+  },
+  "keywords": [
+    "ec2",
+    "wakeup",
+    "start",
+    "down",
+    "stop"
+  ],
+  "author": "chimame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chimame/ec2-wakeup/issues"
+  },
+  "homepage": "https://github.com/chimame/ec2-wakeup#readme"
+}
